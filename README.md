@@ -40,7 +40,7 @@ A web application for managing and displaying student data, developed using Djan
 
 5. **Start the Development Server**:
     ```bash
-    > python manage.py runserver
+    python manage.py runserver
 
 ## Usage
 
