@@ -30,13 +30,16 @@ A web application for managing and displaying student data, developed using Djan
     source venv/bin/activate  
 
 3. **Run Migrations**:
-    >python manage.py makemigrations
-    >python manage.py migrate
+    ```bash
+    python manage.py makemigrations
+    python manage.py migrate
 
 4. **Create a Superuser (for the admin interface)**:
-    >python manage.py createsuperuser
+    ```bash
+    python manage.py createsuperuser
 
 5. **Start the Development Server**:
+    ```bash
     > python manage.py runserver
 
 ## Usage
