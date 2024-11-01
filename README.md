@@ -25,6 +25,7 @@ A web application for managing and displaying student data, developed using Djan
    cd study_buddy
 
 2. **Create and Activate a Virtual Environment**:
+    ```bash
     python3 -m venv venv
     source venv/bin/activate  
 
