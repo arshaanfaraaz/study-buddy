@@ -9,9 +9,9 @@ A web application for managing and displaying student data, developed using Djan
 - [Admin Interface](#admin-interface)
 - [Dependencies](#dependencies)
 
-<img width="600" height="auto" alt="Screenshot 2024-11-01 at 10 47 08 PM" src="https://github.com/user-attachments/assets/60b5e642-8779-4e7f-bacc-fca43747f5ac">
-<img width="600" height="auto" alt="Screenshot 2024-11-01 at 10 47 23 PM" src="https://github.com/user-attachments/assets/092873b1-c266-40fd-93ca-22d114f7451a">
-<img width="600" height="auto" alt="Screenshot 2024-11-01 at 10 47 50 PM" src="https://github.com/user-attachments/assets/957aa490-8064-4046-84f2-745950371641">
+<img width="700" height="auto" alt="Screenshot 2024-11-01 at 10 47 08 PM" src="https://github.com/user-attachments/assets/60b5e642-8779-4e7f-bacc-fca43747f5ac">
+<img width="700" height="auto" alt="Screenshot 2024-11-01 at 10 47 23 PM" src="https://github.com/user-attachments/assets/092873b1-c266-40fd-93ca-22d114f7451a">
+<img width="700" height="auto" alt="Screenshot 2024-11-01 at 10 47 50 PM" src="https://github.com/user-attachments/assets/957aa490-8064-4046-84f2-745950371641">
 
 
 
